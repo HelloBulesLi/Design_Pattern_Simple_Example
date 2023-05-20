@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -O3 -g   CMakeFiles/shared_mem_state.dir/shared_mem_state.cpp.o  -o shared_mem_state 

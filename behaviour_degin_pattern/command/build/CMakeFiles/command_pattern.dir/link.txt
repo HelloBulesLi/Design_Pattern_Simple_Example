@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -O3 -g   CMakeFiles/command_pattern.dir/command_pattern.cpp.o  -o command_pattern 

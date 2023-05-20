@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -O3 -g   CMakeFiles/abstract_factory.dir/abstract_factory.cpp.o  -o abstract_factory 

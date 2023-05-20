@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -O3 -g   CMakeFiles/factory_method.dir/factory_method.cpp.o  -o factory_method 

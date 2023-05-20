@@ -1,0 +1,3 @@
+/home/libo/Design_Pattern/lazy_singleton/build/CMakeFiles/edit_cache.dir
+/home/libo/Design_Pattern/lazy_singleton/build/CMakeFiles/rebuild_cache.dir
+/home/libo/Design_Pattern/lazy_singleton/build/CMakeFiles/lazy_singleton.dir

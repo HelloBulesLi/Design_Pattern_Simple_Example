@@ -1,0 +1,3 @@
+/home/libo/Design_Pattern/behaviour_degin_pattern/memento/build/CMakeFiles/rebuild_cache.dir
+/home/libo/Design_Pattern/behaviour_degin_pattern/memento/build/CMakeFiles/edit_cache.dir
+/home/libo/Design_Pattern/behaviour_degin_pattern/memento/build/CMakeFiles/memento.dir

@@ -1,0 +1,3 @@
+/home/libo/Design_Pattern/behaviour_degin_pattern/strategy/build/CMakeFiles/rebuild_cache.dir
+/home/libo/Design_Pattern/behaviour_degin_pattern/strategy/build/CMakeFiles/edit_cache.dir
+/home/libo/Design_Pattern/behaviour_degin_pattern/strategy/build/CMakeFiles/strategy.dir

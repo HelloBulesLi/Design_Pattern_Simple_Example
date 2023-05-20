@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++14 -O3 -g   CMakeFiles/template_method.dir/template_method.cpp.o  -o template_method 
